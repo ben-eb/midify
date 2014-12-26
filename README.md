@@ -16,8 +16,8 @@ midify is a package that combines node's event emitter with the browser's web mi
 
 Compatible controllers are:
 
-* [https://github.com/ben-eb/midify-numark-dj2go](Numark DJ 2 Go) (http://www.numark.com/product/dj2go)
-* [https://github.com/ben-eb/midify-numark-mixtrack-pro](Numark MixTrack Pro) (http://www.numark.com/product/mixtrackpro)
+* [Numark DJ 2 Go](https://github.com/ben-eb/midify-numark-dj2go) (http://www.numark.com/product/dj2go)
+* [Numark MixTrack Pro](https://github.com/ben-eb/midify-numark-mixtrack-pro) (http://www.numark.com/product/mixtrackpro)
 
 If you've created a map for your controller that is compatible with midify, [please open an issue](https://github.com/ben-eb/midify/issues) and it will be added to the list.
 
