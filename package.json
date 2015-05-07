@@ -1,6 +1,6 @@
 {
   "name": "midify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Makes working with Web MIDI more palatable.",
   "license": "MIT",
   "homepage": "https://github.com/ben-eb/midify",
