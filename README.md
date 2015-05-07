@@ -107,5 +107,4 @@ midify.on('*', function(event, value, raw) {
 
 ## License
 
-MIT © Ben Briggs
-
+MIT © [Ben Briggs](http://beneb.info)
